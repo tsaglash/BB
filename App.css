@@ -1,0 +1,30 @@
+.container {
+  background-color: blueviolet;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji {
+  height: 700px;
+  width: 700px;
+  background-color: rgb(255, 225, 0);
+  display: flex;
+  flex-wrap: wrap;
+}
+.emoji h1 {
+  background-color: aquamarine;
+  display: flex;
+}
+.booox {
+  width: 120px;
+  height: 120px;
+  background-color: black;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  display: flex;
+}

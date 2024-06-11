@@ -1,0 +1,24 @@
+.t {
+  background-color: blueviolet;
+  height: 150px;
+  width: 200px;
+  border-radius: 8px;
+  align-items: center;
+  justify-content: center;
+}
+.c {
+  background-color: midnightblue;
+  height: 150px;
+  width: 200px;
+  border-radius: 8px;
+  align-items: center;
+  justify-content: center;
+}
+.s {
+  background-color: aquamarine;
+  height: 150px;
+  width: 200px;
+  border-radius: 8px;
+  align-items: center;
+  justify-content: center;
+}
